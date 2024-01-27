@@ -1,0 +1,35 @@
+body{
+    background-color: #daa520;
+}
+
+#box1{
+    background-color: #297E40;
+    width: 365px;
+    height: 365px;
+    border-radius: 12px;
+    display: inline-block;
+    margin-top: 32px;
+    margin-left:  32px;
+
+}
+
+#box2{
+    background-color: #8E2877;
+    width: 365px;
+    height: 365px;
+    border-radius: 90px;
+    display: inline-block;
+    margin-top:  32px;
+    margin-left: 32px;
+
+}
+
+#box3{
+    background-color: #361BA4;
+    width: 365px;
+    height: 365px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top:  32px;
+    margin-left: 32px;
+}
